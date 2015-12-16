@@ -1,0 +1,16 @@
+[
+{
+  "modid": "repairshower",
+  "name": "Repair Shower",
+  "description": "Shows repair costs as a tooltip.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["auxchar"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
