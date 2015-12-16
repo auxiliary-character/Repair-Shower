@@ -1,6 +1,7 @@
 package auxchar.mods.repairshower;
 
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
+import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraft.util.EnumChatFormatting;
 
 public class TooltipListener {
