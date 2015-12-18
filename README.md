@@ -1,6 +1,6 @@
 # Repair Shower
 
-Shows the repair costs in a tooltip.
+Shows the repair costs in a tooltip when in an anvil.
 
 ![Screenshot](http://i.imgur.com/rkURMkN.png)
 
