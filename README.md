@@ -9,7 +9,7 @@ Shows the repair costs in a tooltip.
 Use `./gradlew build` on Mac or Linux or `gradle.bat build` on Windows.
 
 #Download
-[Here](https://github.com/auxiliary-character/Repair-Shower/releases/tag/1.0.0-1.8-11.14.4.1563)
+[Here](https://github.com/auxiliary-character/Repair-Shower/releases/tag/1.1.0-1.8-11.14.4.1563)
 
 Copyright © 2015 Austin Fuller
 

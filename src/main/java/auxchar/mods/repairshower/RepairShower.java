@@ -11,7 +11,7 @@ import net.minecraftforge.fml.common.event.FMLInitializationEvent;
 @Mod(modid = RepairShower.MODID, version = RepairShower.VERSION)
 public class RepairShower {
     public static final String MODID = "repairshower";
-    public static final String VERSION = "1.0.0-1.8-11.14.4.1563";
+    public static final String VERSION = "1.1.0-1.8-11.14.4.1563";
 
     @Instance(value = "repairshower")
     public static RepairShower instance;
