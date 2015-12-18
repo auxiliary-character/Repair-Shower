@@ -6,7 +6,7 @@ import net.minecraft.util.EnumChatFormatting;
 
 public class TooltipListener {
     @SubscribeEvent
-    public void onChat(ItemTooltipEvent e) {
+    public void onTooltip(ItemTooltipEvent e) {
         int cost = e.itemStack.getRepairCost();
         if (cost > 0) {
             e.toolTip.add(EnumChatFormatting.RED.toString()+"Repair Cost: "+cost);
